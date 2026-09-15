@@ -1,7 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### DATE: 01/09/2026
 ### Name: Rihan Ahamed S
-### Reg. No: 212224040120
+### Reg. No: 212224040276
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
